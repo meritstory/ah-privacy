@@ -1,8 +1,3 @@
-layout:page
-title:"Privacy policy"
-permalink: /op-privacy
-
-
 # PRIVACY POLICY
 
 This privacy policy governs your use of the software application Atviri Horizontai Verslas (“Application”) for mobile devices that was created by MeritStory. The Application Atviri Horizontai Verslas is made for the municipality of Klaipėdos Rajonas to easier offer services to its residents.
